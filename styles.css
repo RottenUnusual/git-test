@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    background-color: hsl(212, 45%, 89%);
+}
+
+body{
+    font-size: 15px;
+    font-weight: 400px, 700px;
+}
+
+.attribution{
+    background-color: hsl(212, 45%, 89%);
+}
