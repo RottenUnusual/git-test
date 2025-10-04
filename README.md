@@ -17,8 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://rottenunusual.github.io/git-test/m)
 
 
 ### Built with
@@ -33,6 +32,7 @@ I learned how to use css flexbox to position elements.
 
 ### Continued development
 
-I want to focus on writing cleaner css. I want to implement the cleanest and best possible solutions
+I want to focus on writing cleaner css. I want to implement the cleanest and best possible solutions. Currently the code i have is messy and
+im not sure how to make it cleaner or if this is good code
 
 
