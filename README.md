@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://rottenunusual.github.io/git-test/m)
+- Live Site URL: [Add live site URL here](https://rottenunusual.github.io/git-test/)
 
 
 ### Built with
